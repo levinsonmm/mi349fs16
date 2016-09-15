@@ -1,0 +1,29 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+    width: 100%;
+    text-align: center;
+  
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: pink;
+    clear: left;
+    text-align: center;
+    font-size: 75px;
+}
+
+nav{
+
+}
+   
+
+section{
+    padding: 1em;
+    overflow: hidden;
+}
+
+
