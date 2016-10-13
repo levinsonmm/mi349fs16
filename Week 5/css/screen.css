@@ -1,0 +1,56 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+
+
+/* Style The Dropdown Button */
+.master {
+    font-family: verdana;
+    text-align: center;
+}
+
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: #488888;
+}
+
+h1 {
+
+  font-size: 25px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  background-color: #4CAF50;
+
+}
+
+
+
+p {
+
+    font-size: 15px;
+    margin-top: 2px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+li a{
+  color : white;
+
+}
+
+nav {
+  background-color: #000;
+}
+
+#page1 {
+  color : black;
+}
+
+#page2 {
+  color : white;
+}
