@@ -1,0 +1,63 @@
+/* Add your CSS below */
+
+body {
+  background: #fff;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background: linear-gradient( orange, white);
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0,0,0,.5);
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 1em;
+  text-align: center;
+  width: 50%;
+
+}
+
+.card--avatar {
+  float: left;
+  border-radius: 10%;
+  border: 5px solid #fff;
+  box-shadow: 0 -10px 20px rgba(0,0,0,.5);
+  margin-top: 7em;
+  margin-right: -100%;
+}
+
+.card--title {
+  color: #2c3e50;
+  font-size: 3.2em;
+  font-weight: 100;
+  margin: 0;
+}
+
+.card--vitals {
+  color: #95a5a6;
+  margin: 0.2em 0 0 0;
+}
+
+.card--vitals li {
+  display: inline;
+  padding: 1em;
+}
+
+.card--ingedient-list {
+  list-style-type: none;
+  margin: 1em 0 0 0;
+  padding: 0;
+}
+
+.card--ingredient-list li {
+  list-style-type: none;
+  padding: 1em;
+}
+
+.card--source {
+  margin: 1em 0 0 0;
+  padding: 0;
+}
